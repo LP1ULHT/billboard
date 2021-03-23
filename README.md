@@ -83,7 +83,7 @@ Os alunos são encorajados a discutir os problemas com outros alunos mas não de
 
 ## Metadados
 
-* Autor: [Pedro Serra]
+* Autor: [Pedro Serra, Lúcio Studer, Guilherme Sanches, Tiago Simas]
 * Curso:  [Licenciatura em Engenharia Informática][lei]
 * Curso:  [Licenciatura em Engenharia Informática e Redes de Telecomunicações][leirt]
 * Curso:  [Licenciatura em Informática de Gestão][lig]
