@@ -33,6 +33,8 @@ Após efectuada uma operação, o programa deverá voltar a ficar à espera que 
 
 Caso o utilizador introduza uma opção inexistente, programa deverá imprimir a mensagem de erro `invalid option`. 
 
+Comece por implementar o deslocamento de um caracter para a direita. Poderá depois implementar o deslocamento de `n` caracteres para a direira repetindo `n` vezes a deslocação de `1` caracter. Repita o processo para os deslocamentos para a esquerda.
+
 ## Exemplo de utilização do programa
 ```shell_session
 $>./billboard
