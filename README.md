@@ -31,7 +31,7 @@ Uma deslocação de `n` caracteres consiste em mover os caracteres todos de uma 
 
 Após efectuada uma operação, o programa deverá voltar a ficar à espera que o utilizador volte a introduzir uma opção. O programa apenas termina quando o utilizador introduzir a opção `q`.
 
-Caso o utilizador introduza uma opção inexistente, programa deverá imprimir a mensagem de erro `invalid option`. 
+Caso o utilizador introduza uma opção inexistente, programa deverá imprimir a mensagem de erro `Error: Unknown option`. 
 
 Comece por implementar o deslocamento de um caracter para a direita. Poderá depois implementar o deslocamento de `n` caracteres para a direira repetindo `n` vezes a deslocação de `1` caracter. Repita o processo para os deslocamentos para a esquerda.
 
