@@ -74,13 +74,6 @@ Os alunos são encorajados a discutir os problemas com outros alunos mas não de
 
 * (2)  PANDORA - Yet Another Automated Assessment Tool, https://saturn.ulusofona.pt/.
 
-<a name="ref3"></a>
-
-* (3)  Lusófona Moodle, https://secure.grupolusofona.pt/ulht/moodle/
-
-<a name="ref3"></a>
-* (3)  Conceito de Encriptação - [https://pt.wikipedia.org/wiki/Encripta%C3%A7%C3%A3o](https://pt.wikipedia.org/wiki/Encriptação)
-
 ## Metadados
 
 * Autor: [Pedro Serra, Lúcio Studer, Guilherme Sanches, Tiago Simas]
